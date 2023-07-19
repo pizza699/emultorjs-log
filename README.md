@@ -1,0 +1,1 @@
+# emultorjs-log
